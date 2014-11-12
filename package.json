@@ -1,0 +1,19 @@
+{
+  "name": "automa-javascript-require",
+  "version": "0.0.1",
+  "description": "Build require.js files using almond",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:unclepotap/automa-javascript-require.git"
+  },
+  "author": "Ivan Potapov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unclepotap/automa-javascript-require/issues"
+  },
+  "homepage": "https://github.com/unclepotap/automa-javascript-require"
+}
