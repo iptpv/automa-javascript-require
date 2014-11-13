@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/unclepotap/automa-javascript-require/issues"
   },
-  "homepage": "https://github.com/unclepotap/automa-javascript-require"
+  "homepage": "https://github.com/unclepotap/automa-javascript-require",
+  "dependencies": {
+    "requirejs": "^2.1.15"
+  }
 }
