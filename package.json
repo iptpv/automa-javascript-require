@@ -1,6 +1,6 @@
 {
   "name": "automa-javascript-require",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Build require.js files using almond",
   "main": "index.js",
   "scripts": {
